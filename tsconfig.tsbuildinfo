@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/router/index.ts","./src/app.vue","./src/components/dashboard.vue","./src/components/helloworld.vue","./src/components/landingpage.vue","./src/components/login.vue","./src/components/signuppage.vue","./src/components/ticketmanagement.vue"],"errors":true,"version":"5.9.3"}
