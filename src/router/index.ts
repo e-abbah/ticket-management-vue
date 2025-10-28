@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import LandingPage from '../components/LandingPage.vue'
 import Login from '../components/Login.vue'
 import SignupPage from '../components/SignupPage.vue'
-import * as path from 'path'
+
 
 const routes = [
   {
